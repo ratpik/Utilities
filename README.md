@@ -1,4 +1,8 @@
-Contains list of utilities I use for development
+=======
+Utilities
+=========
+
+Utility scripts for development and infrastructure ops
 
 *connectAndroid.sh - Connects android devices to the android debugger, Also has
 proxy routing when used with Proxoid
